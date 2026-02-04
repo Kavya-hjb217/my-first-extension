@@ -1,3 +1,6 @@
+
+
+
 {
   "name": "my-first-extension",
   "displayName": "my-first-extension",
@@ -16,6 +19,10 @@
       {
         "command": "my-first-extension.helloWorld",
         "title": "Hello World"
+      },
+      {
+        "command": "my-first-extension.showDate",
+        "title": "Display and Insert Current Date"
       }
     ]
   },
